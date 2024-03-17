@@ -22,10 +22,11 @@
 </div>
 
 <div align="center">
-  <br/>
-  <a href="https://jxxxxxx.netlify.app/" target="_blank"><img src="jeth-modified.png?theme=dark&bg=0d1117&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence of PP Namias#9958" width="200px"/></a>
   <br>
-  <a href="https://www.linkedin.com/in/PP-Namias"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF20&center=true&vCenter=true&width=435&lines=I'm+Jethro+Jabay%2C+21+years+old;Full+Stack+Web+Developer;Professional+Freestyle+Editor;TikTok+Content+Creator;Vexel+Art+Artist;Information+Technology+Student" alt="Typing SVG"/></a>
+<div align="center">
+  <a href="https://discordapp.com/users/843844621364625408" target="_blank"><img src="https://lanyard.cnrad.dev/api/843844621364625408?theme=dark&bg=0d1117&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Busy%20doing%20something%20else..." alt="Discord Presence of itzjeth" width="600px"/></a>
+  <br>
+  <a href="https://www.linkedin.com/in/jethro-jabay-4351452b2/"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF20&center=true&vCenter=true&width=435&lines=I'm+Jethro+Jabay%2C+21+years+old;Full+Stack+Web+Developer;Professional+Freestyle+Editor;TikTok+Content+Creator;Vexel+Art+Artist;Information+Technology+Student" alt="Typing SVG"/></a>
 </div>
 
 <details align="center">
